@@ -1,2 +1,4 @@
 # ZombieMindBCI
-ZombieMindBCI는 1인칭 좀비 살아남기 게임으로, BCI(뇌-컴퓨터 인터페이스) 기술을 활용해 meditation 수치를 측정하고 게임 내 캐릭터의 상태를 제어합니다.
+ZombieMindBCI is a first-person zombie survival game that utilizes BCI (Brain-Computer Interface) technology to measure meditation levels and control the character's state in the game.
+
+This project is being developed as part of the 2023-1 Media Project at Ajou University and serves as a prototype version of the game "Dead or Unwind".
