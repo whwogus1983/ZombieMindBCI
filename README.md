@@ -6,3 +6,4 @@ This project is being developed as part of the 2023-1 Media Project at Ajou Univ
 ZombieMindBCI는 BCI(Brain-Computer Interface) 기술을 활용하여 이완 수준을 측정하고 게임에서 캐릭터의 상태를 제어하는 1인칭 좀비 서바이벌 게임입니다.
 
 이 프로젝트는 아주대학교 2023-1 미디어 프로젝트의 일환으로 개발하는 게임 "Dead or Unwind"의 프로토타입 버전입니다.
+![unity](https://user-images.githubusercontent.com/69391539/231763930-cab3b696-0dff-4669-a896-1c87b089935c.svg)
